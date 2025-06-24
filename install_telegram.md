@@ -3,7 +3,7 @@
 ## Шаг 1. Перейдите на сайт [telegram.org] (https://telegram.org) в браузере.
 
 ## Шаг 2. Выберите версию
-Нажмите на кнопку **Get Telegramfor Windows/Linux/MacOS**.
+Нажмите на кнопку **Get Telegram for Windows/Linux/MacOS**.
 
 ## Шаг 3. Установите 
 Скачайте файл и следуйте инструкциям установщика.
